@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Halcyon",
+    "discord.lowerDetailsEditing": "Workspace: {workspace_folder}",
+    "emmet.excludeLanguages": [],
+    "hexeditor.columnWidth": 32,
+    "hexeditor.showDecodedText": true,
+    "hexeditor.defaultEndianness": "little",
+    "hexeditor.inspectorType": "aside",
+    "git.confirmSync": false,
+    "glassit.alpha": 235,
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font"
+}

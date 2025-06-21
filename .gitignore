@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+!.gitconfig
+
+!.bashrc
+
+!.local/
+!.local/share/
+!.local/share/nemo/
+!.local/share/nemo/actions/
+!.local/share/nemo/actions/*
+
+!.config/
+!.config/Code/
+!.config/Code/User/
+!.config/Code/User/settings.json
